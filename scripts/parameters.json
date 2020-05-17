@@ -1,0 +1,22 @@
+{
+    "parameters" : [
+        {
+            "dataset" : "PaviaU",
+            "window_size": 5,
+            "num_pca_components": 30,
+            "test_ratio": 0.4
+        },
+        {
+            "dataset" : "Salinas",
+            "window_size": 11,
+            "num_pca_components": 30,
+            "test_ratio": 0.4
+        },
+        {
+            "dataset" : "Indian_pines",
+            "window_size": 9,
+            "num_pca_components": 30,
+            "test_ratio": 0.4
+        }
+    ]
+}
